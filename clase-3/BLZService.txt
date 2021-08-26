@@ -1,0 +1,17 @@
+
+1- URL: http://www.thomas-bayer.com/axis2/services/BLZService
+
+2- Operaciones disponibles: 
+
+ - getBank
+	input 
+	  blz: string
+
+	output
+	  details
+		bezeichnung
+		bic
+		ort
+		plz
+
+3 - "Armar el XML"
